@@ -1,4 +1,4 @@
-# Atlas Manufacturing Production Analysis
+# Atlas Production Analysis
 
 ### Table Of Content
 [Background](#background)
