@@ -31,7 +31,7 @@ UnitedHealthcare insurance organizations process thousands of claims daily, maki
 - Reduce financial losses associated with fraud
 - Improve operational transparency and risk management
 
-## Analysis Objective
+## Analysis Objectives
 This project aims to develop a centralized dashboard that supports fraud detection, operational monitoring, provider
 risk assessment, and strategic business intelligence.
 
@@ -51,7 +51,7 @@ UnitedHealthcare insurance claims dataset contains operational and financial cla
 - Days to Submit (Number of days taken to submit claim)
 - Duplicate Flag (Indicates whether claim is duplicate)
 
-## Tools 
+## Tools Used
 - Excel
 - Formulas & Functions
 
