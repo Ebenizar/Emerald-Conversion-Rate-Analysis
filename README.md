@@ -1,4 +1,5 @@
 # UnitedHealthcare Claims Fraud Detection Analysis
+<img width="929" height="425" alt="United Healthcaree fraud Analytics Dashboard" src="https://github.com/user-attachments/assets/8f3163bd-25da-4c63-8598-f73a2749fb7e" />
 
 
 ### Table Of Content
